@@ -26,3 +26,5 @@ Notebooks (run in this order, on Google Colab)
 - notebook/04_data_v3_subgraf.ipynb: per-function labeling and subgraph extraction (data version v3).
 - notebook/05_dedup_pelatihan_evaluasi.ipynb: deduplication, group-wise cross-validation, all training runs, benchmark evaluation, SHAP, near-duplicate measurement, and diagnostics.
 Remarks: cells that report results of earlier experiments (before the group split) may remain in notebooks 01 to 04 and are superseded by notebook 05. References to other notebook file names in the text cells are historical and those notebooks are not part of this artifact.
+
+- docs/: summary tables (final results table and per-pair validation of the fixed contracts) in spreadsheet form.
