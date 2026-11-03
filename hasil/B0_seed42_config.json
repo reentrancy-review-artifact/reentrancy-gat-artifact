@@ -1,0 +1,50 @@
+{
+  "kode": "B0",
+  "mode": "logistic_regression",
+  "model": "LogisticRegression(class_weight=balanced)",
+  "fitur": [
+    "log1p(jumlah_node)",
+    "log1p(jumlah_edge)"
+  ],
+  "seed": 42,
+  "pembagi_fold": "StratifiedGroupKFold(n_splits=5, shuffle=True)",
+  "atribut_grup": "nama",
+  "n_graf": 696,
+  "n_grup": 696,
+  "fold": [
+    {
+      "fold": 1,
+      "n_train": 557,
+      "n_val": 139
+    },
+    {
+      "fold": 2,
+      "n_train": 556,
+      "n_val": 140
+    },
+    {
+      "fold": 3,
+      "n_train": 557,
+      "n_val": 139
+    },
+    {
+      "fold": 4,
+      "n_train": 557,
+      "n_val": 139
+    },
+    {
+      "fold": 5,
+      "n_train": 557,
+      "n_val": 139
+    }
+  ],
+  "metrik_gabungan_out_of_fold": {
+    "f1": 0.7178423236514523,
+    "auc": 0.8714102921793675
+  },
+  "versi": {
+    "sklearn": "1.6.1",
+    "numpy": "2.1.3"
+  },
+  "waktu_latih_menit": 0.019
+}

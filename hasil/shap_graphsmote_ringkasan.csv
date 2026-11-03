@@ -1,0 +1,17 @@
+kontrak,std_shap,pola,top1_gt,iou_k2
+etherbank_fixed.sol,6e-05,flat,False,0.25
+etherstore_fixed.sol,0.0018,discriminative,False,0.0
+modifier_reentrancy_fixed.sol,0.00017,flat,False,0.25
+reentrance_fixed.sol,0.00042,flat,False,0.25
+reentrancy_dao_fixed.sol,0.0036,discriminative,True,0.167
+reentrancy_insecure_fixed.sol,0.07973,discriminative,False,0.333
+reentrancy_simple_fixed.sol,6e-05,flat,False,0.25
+simple_dao_fixed.sol,0.00098,flat,True,0.25
+etherbank.sol,8e-05,flat,False,0.0
+etherstore.sol,0.00195,discriminative,False,0.0
+modifier_reentrancy.sol,0.00091,flat,True,0.167
+reentrance.sol,0.00142,discriminative,False,0.0
+reentrancy_dao.sol,0.01338,discriminative,True,0.167
+reentrancy_insecure.sol,0.09065,discriminative,False,0.333
+reentrancy_simple.sol,7e-05,flat,False,0.25
+simple_dao.sol,0.00374,discriminative,True,0.25

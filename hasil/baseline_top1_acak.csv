@@ -1,0 +1,17 @@
+kontrak,n_node,n_gt,p_acak
+etherbank_fixed.sol,7,3,0.4285714286
+etherstore_fixed.sol,10,5,0.5000000000
+modifier_reentrancy_fixed.sol,7,3,0.4285714286
+reentrance_fixed.sol,10,3,0.3000000000
+reentrancy_dao_fixed.sol,9,5,0.5555555556
+reentrancy_insecure_fixed.sol,6,2,0.3333333333
+reentrancy_simple_fixed.sol,7,3,0.4285714286
+simple_dao_fixed.sol,7,3,0.4285714286
+etherbank.sol,7,3,0.4285714286
+etherstore.sol,10,5,0.5000000000
+modifier_reentrancy.sol,14,5,0.3571428571
+reentrance.sol,10,3,0.3000000000
+reentrancy_dao.sol,9,5,0.5555555556
+reentrancy_insecure.sol,6,2,0.3333333333
+reentrancy_simple.sol,7,3,0.4285714286
+simple_dao.sol,7,3,0.4285714286

@@ -1,0 +1,17 @@
+nama_kontrak,label,jumlah_node,probabilitas_rentan
+etherbank_fixed.sol,0,7,0.0011737878
+etherstore_fixed.sol,0,10,0.0205114050
+modifier_reentrancy_fixed.sol,0,7,0.0020747428
+reentrance_fixed.sol,0,10,0.0145567554
+reentrancy_dao_fixed.sol,0,9,0.0401377981
+reentrancy_insecure_fixed.sol,0,6,0.0312085210
+reentrancy_simple_fixed.sol,0,7,0.0011737877
+simple_dao_fixed.sol,0,7,0.0169441598
+etherbank.sol,1,7,0.0011108556
+etherstore.sol,1,10,0.0188506320
+modifier_reentrancy.sol,1,14,0.0115289750
+reentrance.sol,1,10,0.0428760597
+reentrancy_dao.sol,1,9,0.1415770839
+reentrancy_insecure.sol,1,6,0.1888474643
+reentrancy_simple.sol,1,7,0.0014307378
+simple_dao.sol,1,7,0.0685890020

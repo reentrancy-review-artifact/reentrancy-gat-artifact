@@ -1,0 +1,15 @@
+nama_kontrak,tipe,node_id,shap_value,ground_truth
+simple_dao.sol,rentan,0,0.00151,0
+simple_dao.sol,rentan,1,0.00426,1
+simple_dao.sol,rentan,2,0.00397,0
+simple_dao.sol,rentan,3,0.00742,0
+simple_dao.sol,rentan,4,0.01321,1
+simple_dao.sol,rentan,5,0.00467,1
+simple_dao.sol,rentan,6,0.00166,0
+simple_dao_fixed.sol,perbaikan,0,-0.00013,0
+simple_dao_fixed.sol,perbaikan,1,0.0005,1
+simple_dao_fixed.sol,perbaikan,2,-9e-05,0
+simple_dao_fixed.sol,perbaikan,3,0.00167,0
+simple_dao_fixed.sol,perbaikan,4,-0.00087,1
+simple_dao_fixed.sol,perbaikan,5,0.00208,1
+simple_dao_fixed.sol,perbaikan,6,6e-05,0

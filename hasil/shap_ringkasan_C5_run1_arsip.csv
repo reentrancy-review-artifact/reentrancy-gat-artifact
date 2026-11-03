@@ -1,0 +1,17 @@
+model,kontrak,n_node,n_gt,std_shap,pola,top1_gt,iou_k2,iou_acak,cek_efisiensi
+C5_run1,etherbank_fixed.sol,7,3,0.0002323805,flat,False,0.2500000000,0.2068965517,0.0000000000
+C5_run1,etherstore_fixed.sol,10,5,0.0038401174,discriminative,False,0.0000000000,0.1666666667,-0.0000000000
+C5_run1,modifier_reentrancy_fixed.sol,7,3,0.0011992342,discriminative,True,0.6666666667,0.2068965517,0.0000000000
+C5_run1,reentrance_fixed.sol,10,3,0.0017020801,discriminative,False,0.0000000000,0.1363636364,0.0000000000
+C5_run1,reentrancy_dao_fixed.sol,9,5,0.0071617261,discriminative,True,0.4000000000,0.1886792453,0.0000000000
+C5_run1,reentrancy_insecure_fixed.sol,6,2,0.0911042137,discriminative,False,0.3333333333,0.2000000000,-0.0000000000
+C5_run1,reentrancy_simple_fixed.sol,7,3,0.0002323805,flat,False,0.2500000000,0.2068965517,0.0000000000
+C5_run1,simple_dao_fixed.sol,7,3,0.0029038010,discriminative,True,0.2500000000,0.2068965517,0.0000000000
+C5_run1,etherbank.sol,7,3,0.0001948057,flat,False,0.2500000000,0.2068965517,0.0000000000
+C5_run1,etherstore.sol,10,5,0.0042417222,discriminative,False,0.0000000000,0.1666666667,-0.0000000000
+C5_run1,modifier_reentrancy.sol,14,5,0.0032940941,discriminative,True,0.1666666667,0.1136363636,0.0000000000
+C5_run1,reentrance.sol,10,3,0.0046986228,discriminative,False,0.0000000000,0.1363636364,0.0000000000
+C5_run1,reentrancy_dao.sol,9,5,0.0160190432,discriminative,True,0.4000000000,0.1886792453,-0.0000000000
+C5_run1,reentrancy_insecure.sol,6,2,0.1152697471,discriminative,False,0.3333333333,0.2000000000,0.0000000000
+C5_run1,reentrancy_simple.sol,7,3,0.0002728067,flat,True,0.2500000000,0.2068965517,0.0000000000
+C5_run1,simple_dao.sol,7,3,0.0093634901,discriminative,True,0.2500000000,0.2068965517,0.0000000000

@@ -1,0 +1,17 @@
+{
+  "kode": "C3",
+  "seed": 42,
+  "dim_input": 22,
+  "dim_hidden": 512,
+  "optimizer": "AdamW",
+  "lr": 0.001,
+  "batch_size": 32,
+  "max_epoch": 50,
+  "patience": 15,
+  "n_splits": 5,
+  "grup_attr": "nama",
+  "n_train": 542,
+  "torch_version": "2.11.0+cu130",
+  "torch_geometric_version": "2.8.1",
+  "waktu_training_detik": 118.8
+}

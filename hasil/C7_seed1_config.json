@@ -1,0 +1,77 @@
+{
+  "kode": "C7",
+  "mode": "weighted",
+  "model": "MultiScaleGAT_SAGPool",
+  "seed": 1,
+  "pembagi_fold": "StratifiedGroupKFold(n_splits=5, shuffle=True)",
+  "atribut_grup": "contract_id",
+  "n_graf": 1452,
+  "n_grup": 539,
+  "fold": [
+    {
+      "fold": 1,
+      "n_train": 1175,
+      "n_val": 277,
+      "n_grup_train": 431,
+      "n_grup_val": 108,
+      "epoch_terbaik": 39,
+      "epoch_berhenti": 50
+    },
+    {
+      "fold": 2,
+      "n_train": 1164,
+      "n_val": 288,
+      "n_grup_train": 433,
+      "n_grup_val": 106,
+      "epoch_terbaik": 35,
+      "epoch_berhenti": 50
+    },
+    {
+      "fold": 3,
+      "n_train": 1137,
+      "n_val": 315,
+      "n_grup_train": 426,
+      "n_grup_val": 113,
+      "epoch_terbaik": 12,
+      "epoch_berhenti": 27
+    },
+    {
+      "fold": 4,
+      "n_train": 1170,
+      "n_val": 282,
+      "n_grup_train": 436,
+      "n_grup_val": 103,
+      "epoch_terbaik": 43,
+      "epoch_berhenti": 50
+    },
+    {
+      "fold": 5,
+      "n_train": 1162,
+      "n_val": 290,
+      "n_grup_train": 430,
+      "n_grup_val": 109,
+      "epoch_terbaik": 17,
+      "epoch_berhenti": 32
+    }
+  ],
+  "hiperparameter": {
+    "optimizer": "AdamW",
+    "lr": 0.001,
+    "weight_decay": 0.0001,
+    "batch_size": 32,
+    "max_epoch": 50,
+    "sabar": 15,
+    "dim_hidden": 512,
+    "dropout": 0.5,
+    "grad_clip": 1.0,
+    "graphsmote_k": null
+  },
+  "versi": {
+    "torch": "2.11.0+cu130",
+    "torch_geometric": "2.8.1",
+    "sklearn": "1.6.1",
+    "numpy": "2.1.3"
+  },
+  "perangkat": "Tesla T4",
+  "waktu_latih_menit": 4.2
+}

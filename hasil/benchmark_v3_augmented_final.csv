@@ -1,0 +1,17 @@
+nama,label,prob_rentan,pred,benar,pred_ambang_optimal
+etherbank_fixed.sol,0,0.001,0,True,0
+etherstore_fixed.sol,0,0.018,0,True,0
+modifier_reentrancy_fixed.sol,0,0.0,0,True,0
+reentrance_fixed.sol,0,0.002,0,True,0
+reentrancy_dao_fixed.sol,0,0.044,0,True,0
+reentrancy_insecure_fixed.sol,0,0.008,0,True,0
+reentrancy_simple_fixed.sol,0,0.001,0,True,0
+simple_dao_fixed.sol,0,0.011,0,True,0
+etherbank.sol,1,0.001,0,False,0
+etherstore.sol,1,0.021,0,False,0
+modifier_reentrancy.sol,1,0.015,0,False,0
+reentrance.sol,1,0.005,0,False,0
+reentrancy_dao.sol,1,0.165,0,False,0
+reentrancy_insecure.sol,1,0.13,0,False,0
+reentrancy_simple.sol,1,0.001,0,False,0
+simple_dao.sol,1,0.084,0,False,0

@@ -1,0 +1,17 @@
+nama,label,prob_rentan
+etherbank_fixed.sol,0,0.0003
+etherstore_fixed.sol,0,0.0104
+modifier_reentrancy_fixed.sol,0,0.0005
+reentrance_fixed.sol,0,0.0018
+reentrancy_dao_fixed.sol,0,0.0124
+reentrancy_insecure_fixed.sol,0,0.0135
+reentrancy_simple_fixed.sol,0,0.0003
+simple_dao_fixed.sol,0,0.0033
+etherbank.sol,1,0.0003
+etherstore.sol,1,0.013
+modifier_reentrancy.sol,1,0.0037
+reentrance.sol,1,0.0094
+reentrancy_dao.sol,1,0.1168
+reentrancy_insecure.sol,1,0.1186
+reentrancy_simple.sol,1,0.0004
+simple_dao.sol,1,0.0368

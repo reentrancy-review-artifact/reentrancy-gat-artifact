@@ -1,0 +1,7 @@
+konfigurasi,f1_cv,f1_bench,auc_bench,pasangan_benar
+SAGPooling (data v2),0.8612,0.2222,0.5938,4/8
+Mean pooling (data v2),0.893,0.3636,0.5625,4/8
+Mean pooling + fitur posisi,0.885,0.2222,0.5938,4/8
+"Mean pooling (data v3, MODEL UTAMA)",0.8798,0.0,0.7031,6/8
+Single-scale GAT (data v3),0.8836,0.0,0.5625,6/8
+SAGPooling (data v3),0.8443,0.0,0.375,1/8
